@@ -41,8 +41,6 @@ for row in data_rows:
     parsed.append(entry)
 
 
-
-
 for e in parsed:
     print("-----")
     print("Prénom :", e.get("Quel est votre prénom ?"))
